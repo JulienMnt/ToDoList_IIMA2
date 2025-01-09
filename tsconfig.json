@@ -5,6 +5,7 @@
         "noEmitOnError": false,
         "strict": true,
         "moduleResolution": "node"
+        
     },
     "include": [
         "src/**/*.ts"
